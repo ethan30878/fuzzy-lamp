@@ -39,7 +39,7 @@ function App() {
         </Container>
         </Navbar>
       </div>
-      <div>
+      <div style="display:flex; flex-direction: row;">
         <Card style={{ width: '18rem' }}>
         <Card.Img variant="top" src="./src/funny.jpg" />
         <Card.Body>
@@ -52,7 +52,7 @@ function App() {
         </Card.Body>
         </Card>
       </div>
-      <div>
+      <div style="display:flex; flex-direction: row;">
         <Card style={{ width: '18rem' }}>
         <Card.Img variant="top" src="./src/funny.jpg" />
         <Card.Body>
@@ -65,7 +65,7 @@ function App() {
         </Card.Body>
         </Card>
       </div>
-      <div>
+      <div style="display:flex; flex-direction: row;">
         <Card style={{ width: '18rem' }}>
         <Card.Img variant="top" src="./src/funny.jpg" />
         <Card.Body>
