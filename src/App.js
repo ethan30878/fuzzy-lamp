@@ -10,10 +10,6 @@ import Card from 'react-bootstrap/Card';
 function App() {
   return (
     <div className="App">
-      <h1>CS 230L</h1>
-      <h2>Section - 02</h2>
-      <p>WVU ID: 800390863</p>
-      <p>Hi I am Ethan</p>
       <div>
         <Navbar expand="lg" className="bg-body-tertiary">
         <Container>
@@ -39,6 +35,10 @@ function App() {
         </Container>
         </Navbar>
       </div>
+      <h1>CS 230L</h1>
+      <h2>Section - 02</h2>
+      <p>WVU ID: 800390863</p>
+      <p>Hi I am Ethan</p>
       <div class="d-flex flex-row">
         <div class="card mx-auto">
           <Card style={{ width: '18rem' }}>
